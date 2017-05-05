@@ -37,7 +37,9 @@
       "https://tableless.com.br/*",
       "https://laracasts.com/discuss/*",
       "https://docs.rs/*",
-      "https://www.digitalocean.com/community/*"
+      "https://www.digitalocean.com/community/*",
+      "https://*.gitlab.com/*",
+      "https://raw.githubusercontent.com/*"
     ]
   }]
 }
